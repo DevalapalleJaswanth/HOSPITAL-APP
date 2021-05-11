@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reddivari9/doctor-referal/static/css/main.49d424f3.chunk.css",
-    "main.js": "/reddivari9/doctor-referal/static/js/main.ac1b1501.chunk.js",
-    "main.js.map": "/reddivari9/doctor-referal/static/js/main.ac1b1501.chunk.js.map",
-    "runtime-main.js": "/reddivari9/doctor-referal/static/js/runtime-main.2f1b5043.js",
-    "runtime-main.js.map": "/reddivari9/doctor-referal/static/js/runtime-main.2f1b5043.js.map",
-    "static/js/2.dc6b3128.chunk.js": "/reddivari9/doctor-referal/static/js/2.dc6b3128.chunk.js",
-    "static/js/2.dc6b3128.chunk.js.map": "/reddivari9/doctor-referal/static/js/2.dc6b3128.chunk.js.map",
-    "static/js/3.0010bf53.chunk.js": "/reddivari9/doctor-referal/static/js/3.0010bf53.chunk.js",
-    "static/js/3.0010bf53.chunk.js.map": "/reddivari9/doctor-referal/static/js/3.0010bf53.chunk.js.map",
-    "index.html": "/reddivari9/doctor-referal/index.html",
-    "static/css/main.49d424f3.chunk.css.map": "/reddivari9/doctor-referal/static/css/main.49d424f3.chunk.css.map",
-    "static/js/2.dc6b3128.chunk.js.LICENSE.txt": "/reddivari9/doctor-referal/static/js/2.dc6b3128.chunk.js.LICENSE.txt"
+    "main.css": "/doctor-referal/static/css/main.49d424f3.chunk.css",
+    "main.js": "/doctor-referal/static/js/main.ac1b1501.chunk.js",
+    "main.js.map": "/doctor-referal/static/js/main.ac1b1501.chunk.js.map",
+    "runtime-main.js": "/doctor-referal/static/js/runtime-main.d170bc07.js",
+    "runtime-main.js.map": "/doctor-referal/static/js/runtime-main.d170bc07.js.map",
+    "static/js/2.dc6b3128.chunk.js": "/doctor-referal/static/js/2.dc6b3128.chunk.js",
+    "static/js/2.dc6b3128.chunk.js.map": "/doctor-referal/static/js/2.dc6b3128.chunk.js.map",
+    "static/js/3.0010bf53.chunk.js": "/doctor-referal/static/js/3.0010bf53.chunk.js",
+    "static/js/3.0010bf53.chunk.js.map": "/doctor-referal/static/js/3.0010bf53.chunk.js.map",
+    "index.html": "/doctor-referal/index.html",
+    "static/css/main.49d424f3.chunk.css.map": "/doctor-referal/static/css/main.49d424f3.chunk.css.map",
+    "static/js/2.dc6b3128.chunk.js.LICENSE.txt": "/doctor-referal/static/js/2.dc6b3128.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f1b5043.js",
+    "static/js/runtime-main.d170bc07.js",
     "static/js/2.dc6b3128.chunk.js",
     "static/css/main.49d424f3.chunk.css",
     "static/js/main.ac1b1501.chunk.js"
