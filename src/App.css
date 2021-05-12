@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+        'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+        'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #282c34;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 70px;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    height: 68px;
+    z-index: 10;
+    border-bottom: 1px solid #ededed;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.nav-area {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.nav-area li {
+    display: inline-block;
+    padding: 0 15px;
+    text-transform: uppercase;
+}
+
+.nav-area li a {
+    transition: 0.3s;
+    color: #000;
+}
+
+.nav-area li a:hover {
+    color: #d22938;
+}
+
+.list,
+.form {
+    border: 1px solid #ededed;
+    margin: 20px 10px;
+    overflow: scroll;
+    height: calc(100vh - 41px);
+}
+
+.list {
+    width: 70%;
+}
+
+.form {
+    width: 30%;
+}
+
+.heading {
+    background-color: #fff;
+    color: #000;
+    margin: 0;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.list-container,
+.form-container {
+    padding: 10px;
+    height: 100%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 10px 0;
+    flex-wrap: unset;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.input-box {
+    width: 70%;
+}
+
+.input-label {
+    width: 30%;
+    text-align: left;
+}
+
+.no-border {
+    border: 0px;
+}
+
+.zero-state {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.details > div,
+.header > div {
+    width: 20%;
+    margin: 0 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.header .date {
+    flex-direction: row;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.sub-text {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.5);
+}
